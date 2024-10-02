@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📂Eymi Ordoñez R. </title>
+        <link rel="stylesheet" href="style.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <select>
+                <option value="todos">Portafolio de Diseño</option>
+                <option value="fotografia">Portafolio de Fotografia</option>
+                <option value="editorial">Portafolio de Diseño Editorial</option>
+                <option value="ui">Portafolio de Diseño UI</option>
+                <option value="branding">Portafolio de Diseño Branding</option>
+            </select>
+        </header>
+
+        <main></main>
+
+        <aside>
+            <a href="about.html">SOBRE MI</a>
+        </aside>
+
+        <script>
+            //unas variables que no varían, que son constantes:
+
+            const nombre = "Eymi Ordoñez R.";
+
+            const autoria = document.querySelector("h1");
+
+            autoria.innerHTML = nombre;
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/amijpg/Clase-09/refs/heads/main/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                data.forEach((d, i) => (principal.innerHTML += `<div class="${d.signo}"><img src="${d.foto}" title="${d.fecha}"><p><a href="single.html?data=${i}">${d.nombre}</a></p>`));
+
+                seleccionables();
+            }
+
+            astros().catch((error) => console.error(error));
+
+            //lo que sigue es una función que ejecuto dentro de astros()
+
+            var valor;
+
+            function seleccionables() {
+                seleccion.addEventListener("change", (e) => {
+                    document.querySelectorAll("div").forEach((t) => t.classList.add("esconde"));
+                    valor = e.target.value;
+                    if (valor !== "todos") {
+                        document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("esconde"));
+                    } else {
+                        document.querySelectorAll("div").forEach((t) => t.classList.remove("esconde"));
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>
