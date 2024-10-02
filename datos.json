@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Perrito Selfie",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/a99ede04-1412-46fe-a88c-d93a83967bac",
+        "fotos": "https://github.com/user-attachments/assets/a99ede04-1412-46fe-a88c-d93a83967bac",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Cactus",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/8cb85159-70a7-4290-af44-3ebadf6c9dee",
+        "fotos": "https://github.com/user-attachments/assets/8cb85159-70a7-4290-af44-3ebadf6c9dee",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Perrito y Flores",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/1ca98f37-62bc-4ae9-a483-27837233c0e6",
+        "fotos": "https://github.com/user-attachments/assets/1ca98f37-62bc-4ae9-a483-27837233c0e6",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Tenia 15",
+        "descripcion": "Portafolio de fotografia realizado en 2018.",
+        "fecha": "2018",
+        "signo": "fotografia",
+        "foto": "https://github.com/user-attachments/assets/5844c493-95c3-45cb-a310-4771d119f0af",
+        "fotos": "https://github.com/user-attachments/assets/5844c493-95c3-45cb-a310-4771d119f0af",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "CDUC HUB",
+        "descripcion": "CDUC Hub es una solución propuesta para el CDUC, desarrollada para abordar diversas problemáticas detectadas entre los deportistas. A través de un análisis detallado, se identificaron necesidades clave como la falta de un medio centralizado para la información, el seguimiento de resultados y competiciones, y la dependencia de canales de comunicación directos. En respuesta a estos desafíos, se diseñaron pantallas específicas que ofrecen funcionalidades como notificaciones, acceso a beneficios, y logros deportivos, todo dentro de una interfaz intuitiva y atractiva. El objetivo es mejorar la experiencia de los usuarios y centralizar la gestión deportiva en una sola plataforma.",
+        "fecha": "2023",
+        "signo": "ui",
+        "foto": "https://github.com/user-attachments/assets/9c1f7243-3eca-4f59-a393-506ca592a490",
+        "fotos": "https://github.com/user-attachments/assets/9c1f7243-3eca-4f59-a393-506ca592a490",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Folou",
+        "descripcion": "",
+        "fecha": "2024",
+        "signo": "ui",
+        "foto": "https://github.com/user-attachments/assets/b0d71bbe-3b33-4121-8e06-f8c0769c89e1",
+        "fotos": "https://github.com/user-attachments/assets/4c2855e6-8b3d-4e33-abe8-af921fb74a6d",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "KapMed",
+        "descripcion": "KAPMED es una solución diseñada para unificar y agilizar los procesos en el ámbito de la salud. Ofrece una plataforma integral que permite tanto a pacientes como a profesionales de la salud agendar citas médicas, recibir alertas personalizadas y dar seguimiento a los tratamientos. Además, proporciona recordatorios automatizados para mejorar la gestión de la salud. La plataforma está segmentada en tres categorías de usuarios, lo que facilita una atención más efectiva y personalizada, adaptada a las necesidades específicas de cada perfil. Esto permite resolver problemas reales de manera más eficiente en el sector.",
+        "fecha": "2023",
+        "signo": "ui",
+        "foto": "https://github.com/user-attachments/assets/6d49b1ae-cd7b-4598-bdb3-8b2404246a44",
+        "fotos": "https://github.com/user-attachments/assets/44ea5112-7020-4ddc-b9f7-129b2b51cdc4",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Fanzine Whiplash",
+        "descripcion": "En este trabajo nos pidieron elegir una temática que nos gustara, y decidí enfocarme en la película Whiplash. El fanzine captura la intensidad y la pasión de la película, utilizando un estilo visual agresivo y desgastado que refleja la obsesión del protagonista por la perfección. Combina ilustraciones, tipografía e imágenes clave del film, buscando transmitir la lucha interna y el impacto emocional de los personajes.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/05b529a6-19fd-4a8f-a5de-7d3f90eed8be",
+        "fotos": "https://github.com/user-attachments/assets/9cc46e34-d873-4aa8-a439-894d39120314",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Band Book Folou",
+        "descripcion": "Proyecto en el que renovamos el logo de la compañia Folou.",
+        "fecha": "2024",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/95f20454-124c-4d89-b451-4cc9c27ce593",
+        "fotos": "https://github.com/user-attachments/assets/ddc842b0-096d-4450-b6a0-18a79defa84a",
+        "github": "https://github.com/amijpg"
+    },
+    {
+        "nombre": "Rediseño de Libro",
+        "descripcion": "Rediseño de portada de libros fue un proyecto que desarrollé durante el segundo año de mi carrera. En este trabajo, se nos asignó la tarea de renovar las portadas de libros clásicos de autores icónicos, con el objetivo de modernizar su aspecto visual sin perder la esencia de las obras. El proyecto me permitió explorar la reinterpretación gráfica de estos clásicos, buscando un equilibrio entre lo contemporáneo y lo atemporal en cada diseño.",
+        "fecha": "2024",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/8c51d33f-4d7b-4f3f-8e38-8e2622dec429",
+        "fotos": "https://github.com/user-attachments/assets/d4c82453-9c32-4ab8-aff4-f330d728ab50",
+        "github": "https://github.com/amijpg"
+    }
+]
