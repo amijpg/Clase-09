@@ -1,72 +1,92 @@
 [
     {
         "nombre": "Perrito Selfie",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
         "fecha": "2024",
-        "signo": "Portafolio de Fotografia",
+        "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/a99ede04-1412-46fe-a88c-d93a83967bac",
+        "fotos": "https://github.com/user-attachments/assets/a99ede04-1412-46fe-a88c-d93a83967bac",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Cactus",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
         "fecha": "2024",
-        "signo": "Portafolio de Fotografia",
+        "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/8cb85159-70a7-4290-af44-3ebadf6c9dee",
+        "fotos": "https://github.com/user-attachments/assets/8cb85159-70a7-4290-af44-3ebadf6c9dee",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Perrito y Flores",
+        "descripcion": "Portafolio de fotografia realizado en 2024.",
         "fecha": "2024",
-        "signo": "Portafolio de Fotografia",
+        "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/1ca98f37-62bc-4ae9-a483-27837233c0e6",
+        "fotos": "https://github.com/user-attachments/assets/1ca98f37-62bc-4ae9-a483-27837233c0e6",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Tenia 15",
+        "descripcion": "Portafolio de fotografia realizado en 2018.",
         "fecha": "2018",
-        "signo": "Portafolio de Fotografia",
+        "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/5844c493-95c3-45cb-a310-4771d119f0af",
+        "fotos": "https://github.com/user-attachments/assets/5844c493-95c3-45cb-a310-4771d119f0af",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "CDUC HUB",
+        "descripcion": "Portafolio de diseño UI realizado en 2023.",
         "fecha": "2023",
-        "signo": "Portafolio de Diseño UI",
+        "signo": "diseño UI",
         "foto": "https://github.com/user-attachments/assets/9c1f7243-3eca-4f59-a393-506ca592a490",
+        "fotos": "https://github.com/user-attachments/assets/9c1f7243-3eca-4f59-a393-506ca592a490",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Folou",
+        "descripcion": "Portafolio de diseño UI realizado en 2024.",
         "fecha": "2024",
-        "signo": "Portafolio de Diseño UI",
+        "signo": "diseño UI",
         "foto": "https://github.com/user-attachments/assets/b0d71bbe-3b33-4121-8e06-f8c0769c89e1",
+        "fotos": "https://github.com/user-attachments/assets/b0d71bbe-3b33-4121-8e06-f8c0769c89e1",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "KapMed",
+        "descripcion": "Portafolio de diseño UI realizado en 2023.",
         "fecha": "2023",
-        "signo": "Portafolio de Diseño UI",
+        "signo": "diseño UI",
         "foto": "https://github.com/user-attachments/assets/6d49b1ae-cd7b-4598-bdb3-8b2404246a44",
+        "fotos": "https://github.com/user-attachments/assets/6d49b1ae-cd7b-4598-bdb3-8b2404246a44",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Fanzine Whiplash",
+        "descripcion": "Portafolio de diseño editorial realizado en 2022.",
         "fecha": "2022",
-        "signo": "Portafolio de Diseño Editorial",
+        "signo": "diseño editorial",
         "foto": "https://github.com/user-attachments/assets/05b529a6-19fd-4a8f-a5de-7d3f90eed8be",
+        "fotos": "https://github.com/user-attachments/assets/05b529a6-19fd-4a8f-a5de-7d3f90eed8be",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Band Book Folou",
+        "descripcion": "Portafolio de diseño branding realizado en 2024.",
         "fecha": "2024",
-        "signo": "Portafolio de Diseño Branding",
+        "signo": "diseño branding",
         "foto": "https://github.com/user-attachments/assets/95f20454-124c-4d89-b451-4cc9c27ce593",
+        "fotos": "https://github.com/user-attachments/assets/95f20454-124c-4d89-b451-4cc9c27ce593",
         "github": "https://github.com/amijpg"
     },
     {
         "nombre": "Rediseño de Libro",
-        "fecha": "2021",
-        "signo": "Portafolio de Diseño Editorial",
+        "descripcion": "Portafolio de diseño editorial realizado en 2024.",
+        "fecha": "2024",
+        "signo": "diseño editorial",
         "foto": "https://github.com/user-attachments/assets/8c51d33f-4d7b-4f3f-8e38-8e2622dec429",
+        "fotos": "https://github.com/user-attachments/assets/8c51d33f-4d7b-4f3f-8e38-8e2622dec429",
         "github": "https://github.com/amijpg"
     }
 ]
